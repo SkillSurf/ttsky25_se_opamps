@@ -4,6 +4,11 @@
 
 - [Read the documentation for project](docs/info.md)
 
+<p align="center">
+    <img src="./layout.png" width = "720" height = "1024"><br>
+    <em>Figure: Final Integrated Layout Design</em>
+</p>
+
 ## What is Tiny Tapeout?
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
