@@ -3,7 +3,7 @@
  <description>SKY130 DRC runset</description>
  <original-file/>
  <generator>drc: script='/Users/kithminrw/.klayout/tech/sky130/macros/run_drc_full.lydrc'</generator>
- <top-cell>tt_um_se_opamps</top-cell>
+ <top-cell>rajinthanr_opamp</top-cell>
  <tags>
  </tags>
  <categories>
@@ -1564,12 +1564,144 @@
  </categories>
  <cells>
   <cell>
-   <name>tt_um_se_opamps</name>
+   <name>rajinthanr_opamp</name>
    <variant/>
    <references>
    </references>
   </cell>
  </cells>
  <items>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (31.827,-40.175;32.053,-40.175)/(31.865,-40.215;32.015,-40.215)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (31.507,-40.175;31.733,-40.175)/(31.545,-40.215;31.695,-40.215)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.552,-39.89;33.338,-39.89)/(33.52,-39.845;33.37,-39.845)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (32.053,-40.405;31.827,-40.405)/(32.015,-40.365;31.865,-40.365)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.232,-39.89;33.018,-39.89)/(33.2,-39.845;33.05,-39.845)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.872,-39.89;33.658,-39.89)/(33.84,-39.845;33.69,-39.845)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (31.413,-40.405;31.187,-40.405)/(31.375,-40.365;31.225,-40.365)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.328,-39.66;33.562,-39.66)/(33.37,-39.695;33.52,-39.695)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.008,-39.66;33.242,-39.66)/(33.05,-39.695;33.2,-39.695)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (31.187,-40.175;31.413,-40.175)/(31.225,-40.215;31.375,-40.215)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (31.733,-40.405;31.507,-40.405)/(31.695,-40.365;31.545,-40.365)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'via.4a'</category>
+   <cell>rajinthanr_opamp</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <image/>
+   <values>
+    <value>edge-pair: (33.648,-39.66;33.882,-39.66)/(33.69,-39.695;33.84,-39.695)</value>
+   </values>
+  </item>
  </items>
 </report-database>
