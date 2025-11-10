@@ -28,7 +28,7 @@ pinout:
   ui[0]: "en_1"
   ui[1]: "en_2"
   ui[2]: "en_3"
-  ui[3]: "en_4"
+  ui[3]: ""
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
@@ -55,10 +55,10 @@ pinout:
   uio[7]: ""
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
-  ua[0]: "vn"
-  ua[1]: "vp"
-  ua[2]: "iref" 
-  ua[3]: "vout"
+  ua[0]: "Iref"
+  ua[1]: "Vm"
+  ua[2]: "Vp" 
+  ua[3]: "Vout"
   ua[4]: ""
   ua[5]: ""
 
